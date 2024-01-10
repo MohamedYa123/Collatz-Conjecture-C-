@@ -1,0 +1,17 @@
+G:\projects\CollatzConjectureProver\CollatzConjectureProver\bin\Debug\net6.0-windows\CollatzConjectureProver.exe
+G:\projects\CollatzConjectureProver\CollatzConjectureProver\bin\Debug\net6.0-windows\CollatzConjectureProver.deps.json
+G:\projects\CollatzConjectureProver\CollatzConjectureProver\bin\Debug\net6.0-windows\CollatzConjectureProver.runtimeconfig.json
+G:\projects\CollatzConjectureProver\CollatzConjectureProver\bin\Debug\net6.0-windows\CollatzConjectureProver.dll
+G:\projects\CollatzConjectureProver\CollatzConjectureProver\bin\Debug\net6.0-windows\CollatzConjectureProver.pdb
+G:\projects\CollatzConjectureProver\CollatzConjectureProver\obj\Debug\net6.0-windows\CollatzConjectureProver.csproj.AssemblyReference.cache
+G:\projects\CollatzConjectureProver\CollatzConjectureProver\obj\Debug\net6.0-windows\CollatzConjectureProver.Form1.resources
+G:\projects\CollatzConjectureProver\CollatzConjectureProver\obj\Debug\net6.0-windows\CollatzConjectureProver.csproj.GenerateResource.cache
+G:\projects\CollatzConjectureProver\CollatzConjectureProver\obj\Debug\net6.0-windows\CollatzConjectureProver.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects\CollatzConjectureProver\CollatzConjectureProver\obj\Debug\net6.0-windows\CollatzConjectureProver.AssemblyInfoInputs.cache
+G:\projects\CollatzConjectureProver\CollatzConjectureProver\obj\Debug\net6.0-windows\CollatzConjectureProver.AssemblyInfo.cs
+G:\projects\CollatzConjectureProver\CollatzConjectureProver\obj\Debug\net6.0-windows\CollatzConjectureProver.csproj.CoreCompileInputs.cache
+G:\projects\CollatzConjectureProver\CollatzConjectureProver\obj\Debug\net6.0-windows\CollatzConjectureProver.dll
+G:\projects\CollatzConjectureProver\CollatzConjectureProver\obj\Debug\net6.0-windows\refint\CollatzConjectureProver.dll
+G:\projects\CollatzConjectureProver\CollatzConjectureProver\obj\Debug\net6.0-windows\CollatzConjectureProver.pdb
+G:\projects\CollatzConjectureProver\CollatzConjectureProver\obj\Debug\net6.0-windows\CollatzConjectureProver.genruntimeconfig.cache
+G:\projects\CollatzConjectureProver\CollatzConjectureProver\obj\Debug\net6.0-windows\ref\CollatzConjectureProver.dll
